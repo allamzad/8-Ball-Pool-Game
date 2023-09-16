@@ -26,6 +26,40 @@ The game was designed to be run on Caltech's labrodoodle remote connection where
 
 ## Gameplay:
 
+<div align="center">
+<img src="https://i.imgur.com/24Mhmip.png" width="400" height="200" class="center"/> 
+  
+Figure 1. Above is the menu and the Emscripten browser that the game is played within. Users can then select any of the gamemodes they wish (chaos mode, deathmatch mode, enable powerups) and then they must select if they wish to play against another player or one of the two AI bots.
+
+---
+
+<img src="https://i.imgur.com/kjz7aqd.png" width="400" height="200" class="center"/>
+
+Figure 2. After the user selects who they wish to play against, a brief instructions screen pops up with the goal of the game, controls, and a description of the different gamemodes. For brevity, the instructions menu does not include the entire ruleset of pool, but more information can be found [here](https://upatour.com/8-ball-rules/).
+
+---
+
+<img src="https://i.imgur.com/xgbUNgF.png" width="400" height="200" class="center"/>
+
+Figure 3. Once the instructions menu is closed, the user is provided with the initial pool table, with the striped/solid balls arranged triangularly, the cueball perpendicular to the triangle, and any powerups if enabled.
+
+---
+
+<img src="https://i.imgur.com/JjlrseZ.png" width="400" height="200" class="center"/>
+
+Figure 4. The player can then drag the mouse and the poolstick will appear where the mouse is clicked. The player can rotate the mouse and change the trajectory, and when ready to hit, they can click once again. A powerbar will show up, where waiting longer to click again will give the poolstick more power!
+
+---
+
+<img src="https://i.imgur.com/jeqood8.png" width="400" height="200" class="center"/>
+
+Figure 5. After this, the player will continue to hit the balls until they pocket one, at which point the type of ball they knocked in will become their goal (striped/solid). They must then knock in all 7 balls of their type and then the eight-ball before their opponent does the same. Knocking in the 8-ball early will result in a loss. Players can also keep hitting until the don't hit a ball of their type or they knock in the cue ball. The balls that a player has hit in of their own type is displayed on ther side. 
+
+---
+
+</div>
+
+
 
 
 
